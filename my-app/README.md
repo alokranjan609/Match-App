@@ -42,7 +42,7 @@ This project is an alternative to the Tinder app, providing similar functionalit
 
 3.Configure environment variables:
 - Create a .env file in the root directory and add the following variables:
-  ```bash
+```bash
 KIND_AUTH_CLIENT_ID=your-kinde-client-id
 KIND_AUTH_CLIENT_SECRET=your-kinde-client-secret
 NEO4J_URI=your-neo4j-uri
@@ -51,9 +51,9 @@ NEO4J_PASSWORD=your-neo4j-password
 ```
 
 4.Start the development server:
-  ```bash
+```bash
   npm run dev
-  ```
+```
 
 ### Usage
 - Visit http://localhost:3000 in your browser.
